@@ -138,7 +138,7 @@ FUTURE_DS_01/
 
 ---
 
-## ⭐ Acknowledgements
+## Acknowledgements
 
 * Kaggle for providing the dataset
 * Open-source community for tools and resources
